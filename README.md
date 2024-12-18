@@ -1,4 +1,5 @@
 GolgeLinuxArch
+
 UYARI: Bu İşletim Sistemine güvenmeyin. Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
 GölgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
@@ -29,9 +30,10 @@ Herhangi bir sorun ya da katkı önerisi için benimle iletişime geçebilirsini
 GitHub: root0emir
 
 
-İşte istediğiniz metnin tamamen İngilizce versiyonu:
+
 
 GolgeLinuxArch
+
 WARNING: Do not trust this operating system. It is still under development and, being Arch-based, is intended for advanced users only.
 
 GolgeLinuxArch is a privacy and anonymity-focused, customized Linux distribution based on Arch Linux. It provides a set of tools and features designed to protect users' anonymity and privacy.
