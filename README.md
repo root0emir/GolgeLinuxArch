@@ -1,4 +1,4 @@
-GolgeLinuxArch
+GolgeLinuxArch 
 
 UYARI: Bu İşletim Sistemine güvenmeyin. Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
