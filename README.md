@@ -1,5 +1,8 @@
 GolgeLinuxArch 
 
+![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
+
+
 UYARI: Bu İşletim Sistemine güvenmeyin. Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
 GölgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
