@@ -1,6 +1,7 @@
 GolgeLinuxArch Version : 1.0
 
 -Artık yanlızca liveuser olarak kullanılabiliyor amnesic işletim sistemi olarak tasarlandı her kullanımda sıfırlanarak önceki oturumda yapılan tüm işlemleri unutur, böylece iz bırakmaz.
+
 -Ek güvenlik araçları ve yapılandırmaları eklendi
 
 ![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
@@ -10,7 +11,8 @@ UYARI: Bu İşletim Sistemine güvenmeyin. Henüz geliştirilme aşamasındadır
 
 GölgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
 
-Özellikler
+Özellikler:
+
 Gizlilik odaklı: Tor ağını kullanarak  internet anonimliği sağlar.
 
 Gizlilik araçları: Veri izleme ve takip engellemeye yönelik çeşitli araçlar içerir.
