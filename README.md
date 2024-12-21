@@ -2,9 +2,9 @@ GolgeLinuxArch Version : 1.0
 
 -Artık yanlızca liveuser olarak kullanılabiliyor amnesic işletim sistemi olarak tasarlandı her kullanımda sıfırlanarak önceki oturumda yapılan tüm işlemleri unutur, böylece iz bırakmaz.
 
--Ek güvenlik araçları ve yapılandırmaları eklendi
+-Ek güvenlik araçları ve yapılandırmaları eklendi.
 
--XFCE4 masaüstü ile hızlı basit hafif bir kullanım sunar eski bilgisayarlarda bile sorunsuz çalışır
+-XFCE4 masaüstü ile hızlı basit hafif bir kullanım sunar eski bilgisayarlarda bile sorunsuz çalışır.
 
 ![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
 
