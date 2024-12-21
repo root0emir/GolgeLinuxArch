@@ -3,7 +3,7 @@
 
 iso_name="golgelinuxarch"
 iso_label="ARCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Golge Linux Arch <https://archlinux.org>"
+iso_publisher="Golge Linux Arch 
 iso_application="Golge Linux Live/Rescue DVD"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
