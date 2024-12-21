@@ -27,6 +27,11 @@ Golge Linux Version : 1.3
 ![Ekran görüntüsü 2024-12-21 231531](https://github.com/user-attachments/assets/5f1a818d-0d08-418c-a8cf-1fe9908f0f9a)
 ![Ekran görüntüsü 2024-12-21 231608](https://github.com/user-attachments/assets/da13d8d0-8584-4adf-bda1-da5f3a1ce1e7)
 
+-Golge Linux Version : 1.4 
+
+-cowspace sorunu çözüldü kritik sistem hataları düzeltildi Golge Linux varsayılan olarak 4gb ram kullanır
+
+![issue](https://github.com/user-attachments/assets/855c0cbc-90bc-4874-bda9-be4551af6124)
 
 
 ---------------
