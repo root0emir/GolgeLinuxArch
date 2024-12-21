@@ -14,7 +14,9 @@ Golge Linux Version : 1.1
 
 ![Ekran görüntüsü 2024-12-21 185646](https://github.com/user-attachments/assets/707072e1-daa9-4473-b1ea-f42514a9808e)
 
+Golge Linux Version : 1.2
 
+-Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum.
 
 UYARI:  Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
