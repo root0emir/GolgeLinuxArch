@@ -19,6 +19,16 @@ Golge Linux Version : 1.2
 -Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum. Geçici çözüm için sistem başladıktan sonra terminali açıp: sudo mount -o remount,size=SIZE /run/archiso/cowspace  komutu girin SIZE yazan yere ram miktarınıza göre 
 bir boyut girin.
 
+Golge Linux Version : 1.3
+
+-Gizlilik araçları test edildi sorunsuz hepsi sorunsuz çalışıyor.
+
+![Ekran görüntüsü 2024-12-21 231447](https://github.com/user-attachments/assets/10bcccda-57cc-49d9-accd-3884d0ce3fcc)
+![Ekran görüntüsü 2024-12-21 231531](https://github.com/user-attachments/assets/5f1a818d-0d08-418c-a8cf-1fe9908f0f9a)
+![Ekran görüntüsü 2024-12-21 231608](https://github.com/user-attachments/assets/da13d8d0-8584-4adf-bda1-da5f3a1ce1e7)
+
+
+
 ---------------
 
 UYARI:  Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
