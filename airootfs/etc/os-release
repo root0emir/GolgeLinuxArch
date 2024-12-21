@@ -1,7 +1,7 @@
 NAME="Golge Linux"
 PRETTY_NAME="Golge Linux"
 ID=golge
-BUILD_ID=rolling
+BUILD_ID=beta
 ANSI_COLOR="38;2;23;147;209"
 HOME_URL="https://archlinux.org/"
 DOCUMENTATION_URL="https://wiki.archlinux.org/"
