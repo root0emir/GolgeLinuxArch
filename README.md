@@ -21,7 +21,7 @@ bir boyut girin.
 
 Golge Linux Version : 1.3
 
--Gizlilik araçları test edildi.
+-Bazı Gizlilik araçları test edildi.
 
 ![Ekran görüntüsü 2024-12-21 231447](https://github.com/user-attachments/assets/10bcccda-57cc-49d9-accd-3884d0ce3fcc)
 ![Ekran görüntüsü 2024-12-21 231531](https://github.com/user-attachments/assets/5f1a818d-0d08-418c-a8cf-1fe9908f0f9a)
