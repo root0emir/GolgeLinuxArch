@@ -1,4 +1,4 @@
-<h1>Golge Linux Arch - Arch tabanlı gizlilik-güvenlik odaklı işletim sistemi</h1>
+<h1>Golge Linux Arch - Arch tabanlı gizlilik ve güvenlik odaklı işletim sistemi</h1>
 
  
 
