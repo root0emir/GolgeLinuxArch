@@ -4,9 +4,16 @@ GolgeLinuxArch Version : 1.0
 
 -Ek güvenlik araçları ve yapılandırmaları eklendi.
 
--XFCE4 masaüstü ile hızlı basit hafif bir kullanım sunar eski bilgisayarlarda bile sorunsuz çalışır.
+-XFCE4 masaüstü ile hızlı basit hafif bir kullanım sunar.
 
 ![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
+
+Golge Linux Version : 1.1
+
+-Hata düzeltmeleri ve yenilikler.
+
+![Ekran görüntüsü 2024-12-21 185646](https://github.com/user-attachments/assets/707072e1-daa9-4473-b1ea-f42514a9808e)
+
 
 
 UYARI: Bu İşletim Sistemine güvenmeyin. Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
