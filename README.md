@@ -37,7 +37,7 @@ Herhangi bir sorun ya da katkı önerisi için benimle iletişime geçebilirsini
 GitHub: root0emir
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 GolgeLinuxArch
 
