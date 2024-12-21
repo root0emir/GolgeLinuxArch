@@ -33,11 +33,11 @@ Golge Linux Version : 1.3
 
 UYARI:  Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
-GölgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
+GolgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
 
 Herhangi bir sorun ya da katkı önerisi için benimle iletişime geçebilirsiniz.
 
-GitHub: root0emir
+GitHub: root0emir 
 
 
 --------------------------------------------------------------------------------------------------------------------------------
