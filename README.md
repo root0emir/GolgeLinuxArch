@@ -1,4 +1,4 @@
-GolgeLinuxArch 
+GolgeLinuxArch Version : 1.0
 
 ![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
 
