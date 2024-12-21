@@ -16,7 +16,8 @@ Golge Linux Version : 1.1
 
 Golge Linux Version : 1.2
 
--Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum.
+-Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum. Geçici çözüm için sistem başladıktan sonra terminali açıp: sudo mount -o remount,size=SIZE /run/archiso/cowspace  komutu girin SIZE yazan yere ram miktarınıza göre 
+bir boyut girin.
 
 ---------------
 
