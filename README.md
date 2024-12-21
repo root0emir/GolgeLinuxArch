@@ -1,5 +1,11 @@
 GolgeLinuxArch Version : 1.0
 
+Golge Linux, kullanıcıların anonimlik ve gizliliğini sağlamak amacıyla tasarlanmış, Arch Linux tabanlı bir 
+işletim sistemidir. Hem hız hem de güvenlik açısından optimize edilmiş olan Gölge Linux, yalnızca Live 
+Mode'da çalışarak, kullanıcıların izlerini silme ve çevrimiçi etkinliklerini gizleme konusunda önemli 
+özellikler sunar. Archiso kullanılarak inşa edildi ve tamamen açık kaynak kodludur.
+
+
 -Artık yanlızca liveuser olarak kullanılabiliyor amnesic işletim sistemi olarak tasarlandı her kullanımda sıfırlanarak önceki oturumda yapılan tüm işlemleri unutur, böylece iz bırakmaz.
 
 -Ek güvenlik araçları ve yapılandırmaları eklendi.
@@ -17,7 +23,7 @@ Golge Linux Version : 1.1
 Golge Linux Version : 1.2
 
 -Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum. Geçici çözüm için sistem başladıktan sonra terminali açıp: sudo mount -o remount,size=SIZE /run/archiso/cowspace  komutu girin SIZE yazan yere ram miktarınıza göre 
-bir boyut girin.
+bir boyut girin. (düzeltildi)
 
 Golge Linux Version : 1.3
 
@@ -30,8 +36,6 @@ Golge Linux Version : 1.3
 -Golge Linux Version : 1.4 
 
 -cowspace sorunu çözüldü kritik sistem hataları düzeltildi Golge Linux varsayılan olarak 4gb ram kullanır
-
-![issue](https://github.com/user-attachments/assets/855c0cbc-90bc-4874-bda9-be4551af6124)
 
 
 ---------------
