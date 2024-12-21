@@ -18,6 +18,8 @@ Golge Linux Version : 1.2
 
 -Fazlalık paketler kaldırıldı araçların sayısı düşürüldü airootfs - cowspace sorunu üzerine çalışıyorum.
 
+---------------
+
 UYARI:  Henüz geliştirilme aşamasındadır ve Arch tabanlı olduğu için yalnızca ileri seviye kullanıcılar içindir.
 
 GölgeLinuxArch, Arch Linux tabanlı, gizlilik ve anonimlik odaklı özelleştirilmiş bir Linux dağıtımıdır. Kullanıcıların anonimliklerini ve gizliliklerini korumak için tasarlanmış bir dizi araç ve özellik sunar.
