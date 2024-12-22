@@ -4,7 +4,7 @@
 
 -Golge Linux Arch : xfce4 masaüstü düşük iso boyutu gizlilik araçları yanlızca liveuser çalışır
 
--Golge Linux Arch CSecurityEdition : xfce4 masaüstü düşük iso boyutu temel siber güvenlik araçları yanlızca liveuser çalışır(geliştirilme aşamasında) 
+-Golge Linux Arch CSecurityEdition : xfce4 masaüstü düşük iso boyutu temel siber güvenlik araçları yanlızca liveuser çalışır (geliştirilme aşamasında) 
 
 -Golge Linux Arch KDE : kde masaüstü yüksek iso boyutu günlük kullanım için özelleştirilmiş daha fazla gizlilik ve siber güvenlik aracı içerir hem liveuser hemde tam ve kolay kurulum(calamares) destekler (geliştirilme aşamasında)
  
