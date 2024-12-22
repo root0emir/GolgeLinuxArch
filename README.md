@@ -8,6 +8,7 @@
 
 -Golge Linux Arch KDE : kde masaüstü yüksek iso boyutu günlük kullanım için özelleştirilmiş daha fazla gizlilik ve siber güvenlik aracı içerir hem liveuser hemde tam ve kolay kurulum(calamares) destekler (geliştirilme aşamasında)
  
+----
 
 Golge Linux, kullanıcıların anonimlik ve gizliliğini sağlamak amacıyla tasarlanmış, Arch Linux tabanlı bir 
 işletim sistemidir. Hem hız hem de güvenlik açısından optimize edilmiş olan Gölge Linux, yalnızca Live 
