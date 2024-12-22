@@ -1,6 +1,7 @@
 <h1>Golge Linux Arch - Arch tabanlı gizlilik ve güvenlik odaklı işletim sistemi</h1>
 
 <h3>Sürümler</h3>
+
 -Golge Linux Arch : xfce4 masaüstü düşük iso boyutu gizlilik araçları yanlızca liveuser çalışır
 
 -Golge Linux Arch CSecurityEdition : xfce4 masaüstü düşük iso boyutu temel siber güvenlik araçları yanlızca liveuser çalışır(geliştirilme aşamasında) 
