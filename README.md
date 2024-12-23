@@ -13,6 +13,7 @@ işletim sistemidir. Hem hız hem de güvenlik açısından optimize edilmiş ol
 Mode'da çalışarak, kullanıcıların izlerini silme ve çevrimiçi etkinliklerini gizleme konusunda önemli 
 özellikler sunar. Archiso kullanılarak inşa edildi ve tamamen açık kaynak kodludur.
 
+
 GolgeLinuxArch Version : 1.0
 
 -Artık yanlızca liveuser olarak kullanılabiliyor amnesic işletim sistemi olarak tasarlandı her kullanımda sıfırlanarak önceki oturumda yapılan tüm işlemleri unutur, böylece iz bırakmaz.
@@ -21,13 +22,9 @@ GolgeLinuxArch Version : 1.0
 
 -XFCE4 masaüstü ile hızlı basit hafif bir kullanım sunar.
 
-![image](https://github.com/user-attachments/assets/20e07fcc-4e06-4470-9b23-00c2da84c71b)
-
 Golge Linux Version : 1.1
 
 -Hata düzeltmeleri ve yenilikler.
-
-![Ekran görüntüsü 2024-12-21 185646](https://github.com/user-attachments/assets/707072e1-daa9-4473-b1ea-f42514a9808e)
 
 Golge Linux Version : 1.2
 
@@ -38,14 +35,15 @@ Golge Linux Version : 1.3
 
 -Bazı Gizlilik araçları test edildi.
 
-![Ekran görüntüsü 2024-12-21 231447](https://github.com/user-attachments/assets/10bcccda-57cc-49d9-accd-3884d0ce3fcc)
-![Ekran görüntüsü 2024-12-21 231531](https://github.com/user-attachments/assets/5f1a818d-0d08-418c-a8cf-1fe9908f0f9a)
-![Ekran görüntüsü 2024-12-21 231608](https://github.com/user-attachments/assets/da13d8d0-8584-4adf-bda1-da5f3a1ce1e7)
-
 -Golge Linux Version : 1.4 
 
 -cowspace sorunu çözüldü kritik sistem hataları düzeltildi Golge Linux varsayılan olarak 4gb ram kullanır
 
+-Golge Linux Version : 1.5
+
+-Gizlilik araçları sayısı çok daha fazla artırıldı
+
+-Hatalar düzeltildi
 
 ---------------
 
