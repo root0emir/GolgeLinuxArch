@@ -4,6 +4,8 @@
 
 -Golge Linux Arch : xfce4 masaüstü düşük iso boyutu gizlilik araçları yanlızca liveuser çalışır
 
+-Golge Linux Debian : alternatif olarak geliştirilen debian tabanlı sürümü arch sürümü ile aynı özellikleri taşır ve hala geliştirilme aşamasındadır.
+
 ----
 
 Golge Linux, kullanıcıların anonimlik ve gizliliğini sağlamak amacıyla tasarlanmış, Arch Linux tabanlı bir 
