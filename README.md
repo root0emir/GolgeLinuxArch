@@ -35,11 +35,11 @@ Golge Linux Version : 1.3
 
 -Bazı Gizlilik araçları test edildi.
 
--Golge Linux Version : 1.4 
+Golge Linux Version : 1.4 
 
 -cowspace sorunu çözüldü kritik sistem hataları düzeltildi Golge Linux varsayılan olarak 4gb ram kullanır
 
--Golge Linux Version : 1.5
+Golge Linux Version : 1.5
 
 -Gizlilik araçları sayısı çok daha fazla artırıldı
 
