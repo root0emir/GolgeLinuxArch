@@ -50,10 +50,15 @@ Debian tabanlı alternatif bir sürüm halen geliştirilme aşamasındadır.
 Hedef Kitle:
 
 Anonimlik ve Gizliliğe Önem Veren Kullanıcılar: İnternette iz bırakmadan gezinmek isteyen bireyler.
+
 Çevrimiçi Güvenlik Arayan Kullanıcılar: Tor ile internet trafiğini gizlemek ve güvenliği artırmak isteyenler.
+
 Siber Saldırılardan Korunmak İsteyenler: Dijital tehditlerden uzak kalmayı hedefleyen kullanıcılar.
+
 Taşınabilirlik Arayanlar: Live Mode özelliği sayesinde USB üzerinden taşınabilir bir işletim sistemi isteyenler.
+
 Siber Güvenlik Uzmanları: Güçlü güvenlik araçlarıyla hızlıca testler gerçekleştirmek isteyen profesyoneller.
+
 Gazeteciler ve Aktivistler: İnternet üzerindeki gizliliğini korumak, hassas bilgileri güvenle işlemek isteyen medya mensupları ve aktivistler.
 
 ----
